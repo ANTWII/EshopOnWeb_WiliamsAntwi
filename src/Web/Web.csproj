@@ -10,7 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Remove="compilerconfig.json" />
+    <Content Remove="compilerconfig.json"/>
   </ItemGroup>
 
   <ItemGroup>
