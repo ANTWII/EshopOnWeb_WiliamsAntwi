@@ -63,6 +63,7 @@
   <ItemGroup>
     <Content Update="appsettings.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    
     </Content>
     <Content Update="Views\Shared\Error.cshtml">
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
